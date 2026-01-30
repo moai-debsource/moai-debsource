@@ -1,1 +1,3 @@
-```[root@archlinux]~$ whoami```
+```console
+[root@archlinux]~$ whoami
+```
